@@ -8,13 +8,14 @@ nav {
     align-items: center;
     margin: 20px;
     background-color: #201305;
-    
 }
 
 .nav-text {
+    display: flex;
     color: white;
     font-weight: 400;
     font-size: 26px;
+    align-items: center;
 
 }
 
